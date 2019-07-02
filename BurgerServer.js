@@ -2,7 +2,7 @@ var exphbs = require("express-handlebars");
 var express = require("express");
 var bodyParser = require("body-parser");
 
-
+//Use default port if specified elsewhere OR port 3000!
 var PORT = process.env.PORT || 3000;
 
 var app = express();

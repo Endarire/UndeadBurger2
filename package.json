@@ -10,7 +10,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "dependencies":
+  {
     "4": "0.0.0",
     "body-parser": "^1.14.2",
     "express": "^4.13.3",
@@ -19,7 +20,8 @@
     "mysql": "^2.16.0",
     "natives": "^1.1.6"
   },
-  "devDependencies": {
+  "devDependencies":
+  {
     "handlebars-helper-css": "^0.1.0"
   }
 }
